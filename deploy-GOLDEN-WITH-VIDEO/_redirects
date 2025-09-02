@@ -1,0 +1,4 @@
+/ping         /.netlify/functions/ping 200
+/shu-nursing  /private/shu-nursing.html 200
+/shu-students /private/shu-students.html 200
+/*            /index.html 200
